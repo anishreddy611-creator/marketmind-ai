@@ -16,11 +16,14 @@ automatically generates, schedules, and optimizes marketing content using AI.
 - Accessibility-aware design approach
 
 ## Tech Stack
-- Frontend: React
-- Backend: Node.js, Express
+- Frontend: React.js, Tailwind CSS
+- Backend: Python, FastAPI
 - Database: MongoDB
-- AI: NLP, Generative AI
-- APIs: Instagram, LinkedIn, Facebook, X
+- AI / ML:
+  - NLP for website analysis and text generation
+  - Generative AI for content creation (text & visuals)
+- APIs: Social Media APIs (Instagram, LinkedIn, Facebook, X)
+- Cloud: AWS (deployment & storage)
 
 ## Hackathon
 Neurobots National Level Hackathon – IIT Palakkad
@@ -34,4 +37,3 @@ Despite communication challenges, the team collaborated effectively through
 visual workflows, structured documentation, and sign-language-based discussions.
 The team is fully prepared to explain and demonstrate the project through written
 or visual communication during evaluations.
-
